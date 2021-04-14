@@ -1,0 +1,15 @@
+{
+  "name": "@ruyadorno/create-index",
+  "version": "1.0.0",
+  "description": "Create an empty index.js file",
+  "bin": {
+    "create-index": "create-index.js"
+  },
+  "keywords": ["init", "create", "index"],
+  "author": {
+    "name": "Ruy Adorno",
+    "url": "https://ruyadorno.com",
+    "twitter": "ruyadorno"
+  },
+  "license": "MIT"
+}
