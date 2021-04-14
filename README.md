@@ -1,8 +1,8 @@
-# create-index
+# create-test
 
-Puts an empty `index.js` into current working dir. Meant for testing only.
+Puts an empty `test.js` into current working dir. Meant for testing only.
 
 ## Usage
 
-`npm exec @ruyadorno/create-index`
+`npm exec @ruyadorno/create-test`
 

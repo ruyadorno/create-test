@@ -1,11 +1,11 @@
 {
-  "name": "@ruyadorno/create-index",
+  "name": "@ruyadorno/create-test",
   "version": "1.0.0",
-  "description": "Create an empty index.js file",
+  "description": "Creates an empty test.js file",
   "bin": {
-    "create-index": "create-index.js"
+    "create-test": "create-test.js"
   },
-  "keywords": ["init", "create", "index"],
+  "keywords": ["init", "create", "test"],
   "author": {
     "name": "Ruy Adorno",
     "url": "https://ruyadorno.com",
